@@ -1,0 +1,39 @@
+.section-search{
+	height: 400px;
+	background: #fff url(http://www.marduktv.com.br/wp-content/uploads/2017/09/background-hearthseek-section-search2.jpg) no-repeat;
+	background-position: top center;
+   	 background-size: cover;
+   	 transition: all 0.2s ease-in-out;
+   	 display: table;
+}
+
+.search-localizacao{
+	outline: 0;
+    background: white;
+    border: 0;
+    width: 250px;
+    padding: 10px;
+    color: gray;
+}
+
+.search-button{
+	cursor: pointer;
+    display: inline-block;
+    outline: 0;
+    border: 0;
+    background-color: #009688;
+    color: white;
+    padding: 10px;
+    text-transform: inherit;
+}
+
+.addressform{
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+
+#map {
+        height: 400px;
+        width: 100%;
+}
